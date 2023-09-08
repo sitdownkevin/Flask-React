@@ -44,8 +44,6 @@ Click `run.bat`
 | README.md
 | requirement.txt
 | run.bat
-| run_backend.bat
-| run_frontend.bat
 ```
 
 ## Demo
