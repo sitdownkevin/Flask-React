@@ -1,7 +1,7 @@
 # Flask+React
 ## Initialization
 
-### Flask About
+### Flask 
 
 ```shell
 # ROOT_DIR
@@ -13,7 +13,7 @@
 > python install -r requirement.txt
 ```
 
-### React About
+### React 
 
 ```shell
 # ROOT_DIR
@@ -24,9 +24,7 @@
 
 ## Run
 
-- `run.bat`: run both frontend and backend
-- `run_backend`: run backend only
-- `run_frontend`: run frontend only
+Click `run.bat`
 
 ## Directory Structure
 
