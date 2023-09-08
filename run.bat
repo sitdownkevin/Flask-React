@@ -1,2 +1,2 @@
 @echo off
-start cmd /K "cd ./backend && flask run"
+start cmd /K "cd ./backend && flask run && exit"
